@@ -4,17 +4,17 @@
 ---
 
 <a href='#nlw'>NLW </a>|
-<a href='#proffy'>PROFFY </a>|
-<a href='#functionalities'>FUNCIONALIDADES </a>|
-<a href='#days'>DIAS </a>|
-<a href='#tecnologies'>TECNOLOGIAS </a>|
-<a href='#layout'>LAYOUT </a>|
+<a href='#proffy'>Proffy </a>|
+<a href='#functionalities'>Functionalities </a>|
+<a href='#days'>Days </a>|
+<a href='#tecnologies'>Technologies </a>|
+<a href='#layout'>Layout </a>|
 
 </div>
 
-## <p id='nlw'>🚀 O que é a NLW ? </p>
+## <p id='nlw'>🚀 NLW </p>
 
-Next Level Week é uma semana intensa com um propósito de desenvolver uma aplicação do mundo real fornecida pela RocketSeat, nessa edição foi desenvolvido o Proffy.
+Next Level Week is an intense week with the purpose of developing a real world application provided by RocketSeat, in this edition Proffy was developed.
 
 <div align='center'>
 <img src="./.github/logo.svg" width='250'>
@@ -25,34 +25,34 @@ Next Level Week é uma semana intensa com um propósito de desenvolver uma aplic
 
 ## <p id='proffy'>📚 Proffy </p>
 
-O Proffy é uma plataforma de estudos on-line, com intuito de conectar alunos e professores com o objetivo de ter aulas on-line.
+Proffy is an online study platform, aiming to connect students and teachers with the objective of taking classes online.
 
 ---
 
-## <p id='functionalities'> ⚙ Funcionalidades </p>
+## <p id='functionalities'> ⚙ Functionalities </p>
 
-1. Calendario das aulas.
-2. O aluno pode entrar em contato com um professor específico.
-3. Listas de professores disponíveis.
-4. Campo de inscrição, para professores.
-
----
-
-## <p id='days'>📅 Dias </p>
-
-#### 1. ✅ Acelerando sua evolução</li>
-
-#### 2. ✅ Olhando as oportunidades</li>
-
-#### 3. ✅ A escolha da stack</li>
-
-#### 4. ✅ Até 2 anos em 2 meses</li>
-
-#### 5. 🚧 A milha extra</li>
+1. Schedule of classes.
+2. The student can contact a specific teacher.
+3. Lists of teachers available.
+4. Registration field, for teachers.
 
 ---
 
-## <p id='tecnologies'>💻 Tecnologias </p>
+## <p id='days'>📅 Days </p>
+
+#### 1. ✅ Accelerating your evolution </li>
+
+#### 2. ✅ Looking at opportunities </li>
+
+#### 3. ✅ The choice of stack </li>
+
+#### 4. ✅ Up to 2 years in 2 months </li>
+
+#### 5. 🚧 The extra mile </li>
+
+---
+
+## <p id='tecnologies'>💻 Technologies </p>
 
 <a href='https://pt-br.reactjs.org/'>React</a>
 <br/>
@@ -65,10 +65,11 @@ O Proffy é uma plataforma de estudos on-line, com intuito de conectar alunos e 
 
 ---
 
-## <p id='layout'>🎨 Layout ? </p>
+## <p id='layout'>🎨 Layout </p>
 
 <div align='center'>
 <img src="./.github/capa.png" width='500'>
+<img src="./.github/print1.png" width='500'>
 <img src="./.github/print2.png" width='500'>
 
 </div>
